@@ -17,7 +17,7 @@ import tailwindConfig from '../tailwind.config'
 
 import '../src/styles/index.css'
 
-ReactGA.initialize('G-65N1S3NF5R')
+ReactGA.initialize('G-WTB85CRDE5')
 
 const preview: Preview = {
   globalTypes: {
